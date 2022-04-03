@@ -1,4 +1,4 @@
-package com.app.shop.whats.demogooglead;
+package com.example.nestedrecycleview;
 
 import org.junit.Test;
 

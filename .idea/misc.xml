@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/RunningProject/DemoGoogleAd/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
-        <entry key="..\:/RunningProject/DemoGoogleAd/app/src/main/res/layout/ad_unified.xml" value="0.25416666666666665" />
+        <entry key="..\:/RunningProject/Nestedrecycleview/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/RunningProject/Nestedrecycleview/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/RunningProject/Nestedrecycleview/app/src/main/res/layout/item_category.xml" value="0.25025641025641027" />
+        <entry key="..\:/RunningProject/Nestedrecycleview/app/src/main/res/layout/item_catogory.xml" value="0.25416666666666665" />
+        <entry key="..\:/RunningProject/Nestedrecycleview/app/src/main/res/layout/item_nested.xml" value="0.25416666666666665" />
+        <entry key="..\:/RunningProject/Nestedrecycleview/app/src/main/res/layout/item_sub_category.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

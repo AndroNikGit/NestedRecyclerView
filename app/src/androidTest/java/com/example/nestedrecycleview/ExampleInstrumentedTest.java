@@ -1,4 +1,4 @@
-package com.app.shop.whats.demogooglead;
+package com.example.nestedrecycleview;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.app.shop.whats.demogooglead", appContext.getPackageName());
+        assertEquals("com.example.nestedrecycleview", appContext.getPackageName());
     }
 }
