@@ -11,14 +11,18 @@ When user clicks on recyclerview item. it is show in next screen for a full size
 
 This code is very easy to learn
 
-If you like this project you can show support by starring ⭐ this repository 🙏
+If you like this project you can show support by starring ⭐ this repository
 
 
+
+# Screenshots
 
 ![imgonline-com-ua-resize-uXGmf9wKYK1spAMG](https://user-images.githubusercontent.com/102687622/161429349-83c6d17d-6469-4168-8024-0cd0885ac433.jpg)
 
 
+
 # LICENSE
+```
 
 MIT License
 
@@ -41,3 +45,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+```
