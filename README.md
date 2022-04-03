@@ -16,3 +16,8 @@ If you like this project you can show support by starring ‚≠ê this repository ü
 
 
 ![imgonline-com-ua-resize-uXGmf9wKYK1spAMG](https://user-images.githubusercontent.com/102687622/161429349-83c6d17d-6469-4168-8024-0cd0885ac433.jpg)
+
+
+#LICENSE
+
+https://github.com/AndroNikGit/NestedRecyclerView/blob/main/LICENSE.txt
